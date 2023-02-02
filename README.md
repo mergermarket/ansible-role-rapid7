@@ -1,7 +1,7 @@
-Utils
+Rapid7
 =========
 
-[![Deploy to Ansible Galaxy](https://github.com/mergermarket/ansible-role-utils/actions/workflows/deploy.yml/badge.svg)](https://github.com/mergermarket/ansible-role-utils/actions/workflows/deploy.yml)
+[![Deploy to Ansible Galaxy](https://github.com/mergermarket/ansible-role-rapid7/actions/workflows/deploy.yml/badge.svg)](https://github.com/mergermarket/ansible-role-rapid7/actions/workflows/deploy.yml)
 
 Installs generic useful apps
 

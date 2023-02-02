@@ -2,6 +2,6 @@
 - name: Converge
   hosts: all
   tasks:
-    - name: "Include Utils"
+    - name: "Include Rapid7"
       include_role:
-        name: "ansible-role-utils"
+        name: "ansible-role-rapid7"
